@@ -77,7 +77,7 @@ export default function App() {
             <div className="absolute inset-0 bg-[#efc9c1] rounded-full translate-x-3 translate-y-3 -z-10 transition-transform group-hover:translate-x-2 group-hover:translate-y-2"></div>
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
               <img 
-                src="/perfil.jpg" 
+                src= "/karina.jpg" 
                 alt="Karina Catapano" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
@@ -157,7 +157,7 @@ export default function App() {
           
           <div className="flex flex-col gap-4">
             <a 
-              href="https://wa.me/5511999999999" 
+              href="https://wa.me/message/UMF724W665F3G1" 
               target="_blank" 
               rel="noreferrer"
               className="flex items-center justify-center gap-3 bg-[#25D366] text-white p-4 rounded-xl font-bold hover:brightness-105 transition-all shadow-md group"
@@ -172,7 +172,7 @@ export default function App() {
               <div className="flex-grow border-t border-gray-300"></div>
             </div>
 
-            <form className="space-y-4" action="https://formspree.io/f/SEU_CODIGO" method="POST">
+            <form className="space-y-4" action="https://formspree.io/f/xbddgnqy" method="POST">
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <input type="text" name="nome" placeholder="Seu Nome" className="w-full p-4 rounded-xl bg-gray-50 border-none focus:ring-2 focus:ring-[#c6444c] transition-all" required />
                 <input type="text" name="telefone" placeholder="Seu Telefone" className="w-full p-4 rounded-xl bg-gray-50 border-none focus:ring-2 focus:ring-[#c6444c] transition-all" />
@@ -188,11 +188,11 @@ export default function App() {
 
         <footer className="mt-16 text-center text-[#c6444c] font-medium">
           <div className="flex justify-center gap-8 mb-6">
-            <a href="#" className="bg-white/20 p-3 rounded-full hover:bg-white/40 transition-colors"><Instagram /></a>
-            <a href="#" className="bg-white/20 p-3 rounded-full hover:bg-white/40 transition-colors"><Linkedin /></a>
+            <a href="https://www.instagram.com/psicatapano" className="bg-white/20 p-3 rounded-full hover:bg-white/40 transition-colors"><Instagram /></a>
+            <a href="https://www.linkedin.com/in/karinacatapano" className="bg-white/20 p-3 rounded-full hover:bg-white/40 transition-colors"><Linkedin /></a>
           </div>
           <p className="text-sm opacity-80">
-            © 2026 Karina Catapano - Psicóloga CRP 00/00000<br/>
+            © 2026 Karina Catapano - Psicóloga CRP 06/223358<br/>
             Todos os direitos reservados.
           </p>
         </footer>
