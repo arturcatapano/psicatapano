@@ -12,12 +12,12 @@ export default function App() {
     <div className="font-sans text-gray-800">
       
       {/* --- NAV BAR --- */}
-      <nav className="fixed w-full bg-[#efc9c1]/95 backdrop-blur-sm shadow-sm z-50 p-4 transition-all">
+      <nav className="fixed w-full bg-[#c6444c]/95 backdrop-blur-sm shadow-sm z-50 p-4 transition-all">
         <div className="max-w-5xl mx-auto flex justify-between items-center">
-          <h1 className="text-xl md:text-2xl font-bold text-[#c6444c] tracking-tight">
+          <h1 className="text-xl md:text-2xl font-bold text-white tracking-tight">
             Psi. Karina Catapano
           </h1>
-          <ul className="hidden md:flex gap-8 font-medium text-[#c6444c]">
+          <ul className="hidden md:flex gap-8 font-medium text-white">
             <li><a href="#inicio" className="hover:opacity-75 transition-opacity">Início</a></li>
             <li><a href="#sobre" className="hover:opacity-75 transition-opacity">Sobre Mim</a></li>
             <li><a href="#atuacao" className="hover:opacity-75 transition-opacity">Atuação</a></li>
