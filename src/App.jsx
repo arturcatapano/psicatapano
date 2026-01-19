@@ -40,7 +40,7 @@ export default function App() {
             PSICOLOGIA CLÍNICA & ORGANIZACIONAL
           </span>
           <h2 className="text-4xl md:text-6xl font-bold text-[#c6444c] mb-6 leading-tight">
-            Escuta analítica para transformar vidas e carreiras.
+            Escuta terapêutica para transformar vidas e carreiras.
           </h2>
           <p className="text-lg md:text-xl text-gray-800 mb-10 leading-relaxed max-w-2xl mx-auto">
             Da profundidade da Psicanálise à estratégia do ambiente corporativo. 
@@ -96,7 +96,7 @@ export default function App() {
               </p>
               <p>
                 Acredito que não existe separação entre a "pessoa" e o "profissional". 
-                Na clínica, utilizo a escuta analítica para tratar angústias, ansiedades e processos de autoconhecimento.
+                Na clínica, utilizo a escuta terapêutica para tratar angústias, ansiedades e processos de autoconhecimento.
               </p>
               <p>
                 No âmbito organizacional, aplico essa mesma sensibilidade para desenvolver talentos, 
@@ -108,7 +108,7 @@ export default function App() {
             {/* Destaque CRP */}
             <div className="mt-8 inline-flex items-center gap-2 text-[#c6444c] font-semibold bg-[#efc9c1]/20 px-4 py-2 rounded-lg">
               <MapPin size={20} />
-              <span>Atendimento Online & Presencial</span>
+              <span>Atendimento Online</span>
             </div>
           </div>
         </div>
